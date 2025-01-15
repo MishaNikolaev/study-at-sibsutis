@@ -1,0 +1,72 @@
+{
+  "incomes": {
+    "2024-12-12": [
+      {
+        "value": 666,
+        "title": "66",
+        "date": "2024-12-12T00:00:00.000Z",
+        "currency": "RUB"
+      },
+      {
+        "value": 66,
+        "title": "34",
+        "date": "2024-12-12T00:00:00.000Z",
+        "currency": "RUB"
+      },
+      {
+        "value": 7878,
+        "title": "334",
+        "date": "2024-12-12T00:00:00.000Z",
+        "currency": "RUB"
+      },
+      {
+        "value": 677,
+        "title": "6676",
+        "date": "2024-12-12T00:00:00.000Z",
+        "currency": "RUB"
+      },
+      {
+        "value": 999,
+        "title": "99",
+        "date": "2024-12-12T00:00:00.000Z",
+        "currency": "RUB"
+      },
+      {
+        "value": 343,
+        "title": "продажа",
+        "date": "2024-12-12T00:00:00.000Z",
+        "currency": "RUB"
+      }
+    ]
+  },
+  "expenses": {
+    "2024-12-10": [
+      {
+        "value": 30000,
+        "title": "аренда",
+        "date": "2024-12-10T00:00:00.000Z",
+        "currency": "RUB"
+      },
+      {
+        "value": 1000,
+        "title": "покупка телефона",
+        "date": "2024-12-10T00:00:00.000Z",
+        "currency": "USD"
+      }
+    ]
+  },
+  "exchangeRates": {
+    "EUR": {
+      "title": "EUR",
+      "value": 120
+    },
+    "USD": {
+      "title": "USD",
+      "value": 100
+    }
+  },
+  "deposit": null,
+  "credit": null,
+  "deposits": {},
+  "credits": {}
+}
