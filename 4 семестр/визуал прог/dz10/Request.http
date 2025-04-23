@@ -1,0 +1,77 @@
+@URL = http://localhost:5136
+
+
+GET {{URL}}/comments/1
+Accept: application/json
+
+### 
+POST {{URL}}/comments
+Content-Type: application/json
+
+{
+  "name": "GLEBASIK",
+  "email": "Glebassss@mail.com",
+  "body": "Firamir azazaza",
+  "postId": 121
+}
+
+###
+PATCH {{URL}}/comments/2
+Content-Type: application/json
+
+{
+  "name": "MISHANYA",
+  "email": "GLEBASIKK@mail.com",
+  "body": "GLEBASIK azazaza",
+  "postId": 1
+}
+
+### 
+DELETE {{URL}}/comments/1
+
+###
+
+### 
+POST {{URL}}/comments
+Content-Type: application/json
+
+{
+  "name": "GLEBASIK",
+  "email": "Glebassss@mail.com",
+  "body": "Firamir azazaza",
+  "postId": 121
+}
+
+###
+
+### 
+POST {{URL}}/comments
+Content-Type: application/json
+
+{
+  "name": "GLEBASIK",
+  "email": "Glebassss@mail.com",
+  "body": "Firamir azazaza",
+  "postId": 121
+}
+
+###
+
+### 
+POST {{URL}}/comments
+Content-Type: application/json
+
+{
+  "name": "GLEBASIK",
+  "email": "Glebassss@mail.com",
+  "body": "Firamir azazaza",
+  "postId": 121
+}
+
+###
+
+###
+GET {{URL}}/comments
+Accept: application/json
+
+### 
