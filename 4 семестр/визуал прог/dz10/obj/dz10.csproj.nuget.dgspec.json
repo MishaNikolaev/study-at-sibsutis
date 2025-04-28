@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HUAWEI\\visual_programming\\dz10\\dz10.csproj": {}
+    "C:\\Users\\HUAWEI\\study at sibsutis\\4 семестр\\визуал прог\\dz10\\dz10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HUAWEI\\visual_programming\\dz10\\dz10.csproj": {
+    "C:\\Users\\HUAWEI\\study at sibsutis\\4 семестр\\визуал прог\\dz10\\dz10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HUAWEI\\visual_programming\\dz10\\dz10.csproj",
+        "projectUniqueName": "C:\\Users\\HUAWEI\\study at sibsutis\\4 семестр\\визуал прог\\dz10\\dz10.csproj",
         "projectName": "dz10",
-        "projectPath": "C:\\Users\\HUAWEI\\visual_programming\\dz10\\dz10.csproj",
+        "projectPath": "C:\\Users\\HUAWEI\\study at sibsutis\\4 семестр\\визуал прог\\dz10\\dz10.csproj",
         "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HUAWEI\\visual_programming\\dz10\\obj\\",
+        "outputPath": "C:\\Users\\HUAWEI\\study at sibsutis\\4 семестр\\визуал прог\\dz10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

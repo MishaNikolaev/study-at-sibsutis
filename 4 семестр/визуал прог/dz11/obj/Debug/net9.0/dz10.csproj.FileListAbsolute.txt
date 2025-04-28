@@ -1,0 +1,279 @@
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\appsettings.json
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.staticwebassets.runtime.json
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.staticwebassets.endpoints.json
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.exe
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.deps.json
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.runtimeconfig.json
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.dll
+C:\Users\HUAWEI\visual_programming\dz10\bin\Debug\net9.0\dz10.pdb
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.AssemblyInfo.cs
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.sourcelink.json
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\scopedcss\bundle\dz10.styles.css
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\urjjwafddm-61n19gt1b8.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\locd69zmcb-bqjiyaj88i.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\dbjv439j1j-c2jlpeoesf.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\49tzueij1q-erw9l3u2r3.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\dtebsp9g8t-aexeepp0ev.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\vux1hmy041-d7shbmvgxk.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\rsg3ft5o1r-ausgxo2sd3.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\glpfx5zarg-k8d9w2qqmf.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\rul2uulaol-cosvhxvwiu.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\d1qok1yzhx-ub07r2b239.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\876vx9z1xr-fvhpjtyr6v.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\acs0710gvt-b7pk76d08c.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\nw2fcd8yav-fsbi9cje9m.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\cwnyhwlgoe-rzd6atqjts.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\p5wj1cwa4z-ee0r1s7dh0.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\eep4qkfq1h-dxx9fxp4il.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\4lcil1zxhq-jd9uben2k1.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\sjfewuzsj9-khv3u5hwcm.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\ns5yvip9ua-r4e9w2rdcm.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\ppiz15ucmh-lcd1t2u6c8.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\evoq3b9nog-c2oey78nd0.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\n41w8wcdxb-tdbxkamptv.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\oqn6xpgkfo-j5mq2jizvt.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\v7pqw09961-06098lyss8.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\glkqwqade0-nvvlpmu67g.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\3z8siyfy78-s35ty4nyc5.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\wn6c1qjd2z-pj5nd1wqec.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\8d03ms2xx2-46ein0sx1k.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\rkg0c48bec-v0zj4ognzu.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\575wiogdf4-37tfw0ft22.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\xb15ieb2j8-hrwsygsryq.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\byhvndjnr6-pk9g2wxc8p.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\ir8711s08t-ft3s53vfgj.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\go5vyfzb7b-6cfz1n2cew.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\zmz6s35et5-6pdc2jztkx.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\ysfyt0ty1q-493y06b0oq.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\5rwlypc1rv-iovd86k7lj.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\tpenlfcqwf-vr1egmr9el.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\z99o1wmjgd-kbrnm935zg.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\5bb69co5kt-jj8uyg4cgr.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\j56pdlbf8w-y7v9cxd14o.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\64nxnbndbh-notf2xhcfb.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\2zjgvim1vz-h1s4sie4z3.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\r43z81snoc-63fj8s7r0e.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\imsnedkyez-0j3bgjxly4.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\mgqjg38ctg-47otxtyo56.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\ssojt54bve-4v8eqarkd7.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\kqzecvfbi1-356vix0kms.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\4qb7nnq5pl-83jwlth58m.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\jfdvyrqlbr-mrlpezrjn3.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\rwr6p0sy0q-lzl9nlhx6b.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\al8q7q5i1j-ag7o75518u.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\7hdy5gwfjt-x0q3zqp4vz.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\kmauboqwr3-0i3buxo5is.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\jn7omunwl7-o1o13a6vjx.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\tafx6lo3o2-ttgo8qnofa.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\aaoonineja-2z0ns9nrw6.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\pagpfo4g3o-muycvpuwrr.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\p8b0fncqfy-87fc7y1x7t.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\compressed\sm5chi0792-mlv21k5csn.gz
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets\msbuild.dz10.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets\msbuild.dz10.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets\msbuild.build.dz10.props
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dz10.props
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dz10.props
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.dll
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\refint\dz10.dll
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.pdb
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\dz10.genruntimeconfig.cache
+C:\Users\HUAWEI\visual_programming\dz10\obj\Debug\net9.0\ref\dz10.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\appsettings.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.staticwebassets.endpoints.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.staticwebassets.runtime.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.exe
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.deps.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.runtimeconfig.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\dz10.pdb
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.AssemblyInfo.cs
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.sourcelink.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\scopedcss\bundle\dz10.styles.css
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\urjjwafddm-61n19gt1b8.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\locd69zmcb-bqjiyaj88i.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\dbjv439j1j-c2jlpeoesf.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\49tzueij1q-erw9l3u2r3.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\dtebsp9g8t-aexeepp0ev.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\vux1hmy041-d7shbmvgxk.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\rsg3ft5o1r-ausgxo2sd3.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\glpfx5zarg-k8d9w2qqmf.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\rul2uulaol-cosvhxvwiu.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\d1qok1yzhx-ub07r2b239.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\876vx9z1xr-fvhpjtyr6v.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\acs0710gvt-b7pk76d08c.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\nw2fcd8yav-fsbi9cje9m.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\cwnyhwlgoe-rzd6atqjts.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\p5wj1cwa4z-ee0r1s7dh0.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\eep4qkfq1h-dxx9fxp4il.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\4lcil1zxhq-jd9uben2k1.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\sjfewuzsj9-khv3u5hwcm.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\ns5yvip9ua-r4e9w2rdcm.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\ppiz15ucmh-lcd1t2u6c8.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\evoq3b9nog-c2oey78nd0.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\n41w8wcdxb-tdbxkamptv.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\oqn6xpgkfo-j5mq2jizvt.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\v7pqw09961-06098lyss8.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\glkqwqade0-nvvlpmu67g.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\3z8siyfy78-s35ty4nyc5.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\wn6c1qjd2z-pj5nd1wqec.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\8d03ms2xx2-46ein0sx1k.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\rkg0c48bec-v0zj4ognzu.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\575wiogdf4-37tfw0ft22.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\xb15ieb2j8-hrwsygsryq.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\byhvndjnr6-pk9g2wxc8p.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\ir8711s08t-ft3s53vfgj.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\go5vyfzb7b-6cfz1n2cew.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\zmz6s35et5-6pdc2jztkx.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\ysfyt0ty1q-493y06b0oq.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\5rwlypc1rv-iovd86k7lj.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\tpenlfcqwf-vr1egmr9el.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\z99o1wmjgd-kbrnm935zg.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\5bb69co5kt-jj8uyg4cgr.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\j56pdlbf8w-y7v9cxd14o.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\64nxnbndbh-notf2xhcfb.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\2zjgvim1vz-h1s4sie4z3.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\r43z81snoc-63fj8s7r0e.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\imsnedkyez-0j3bgjxly4.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\mgqjg38ctg-47otxtyo56.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\ssojt54bve-4v8eqarkd7.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\kqzecvfbi1-356vix0kms.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\4qb7nnq5pl-83jwlth58m.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\jfdvyrqlbr-mrlpezrjn3.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\rwr6p0sy0q-lzl9nlhx6b.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\al8q7q5i1j-ag7o75518u.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\7hdy5gwfjt-x0q3zqp4vz.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\kmauboqwr3-0i3buxo5is.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\jn7omunwl7-o1o13a6vjx.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\tafx6lo3o2-ttgo8qnofa.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\aaoonineja-2z0ns9nrw6.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\pagpfo4g3o-muycvpuwrr.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\p8b0fncqfy-87fc7y1x7t.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\compressed\sm5chi0792-mlv21k5csn.gz
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets\msbuild.dz10.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets\msbuild.dz10.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets\msbuild.build.dz10.props
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dz10.props
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dz10.props
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\refint\dz10.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.pdb
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.genruntimeconfig.cache
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\ref\dz10.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Humanizer.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Npgsql.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\study at sibsutis\4 семестр\визуал прог\dz11\obj\Debug\net9.0\dz10.csproj.Up2Date
