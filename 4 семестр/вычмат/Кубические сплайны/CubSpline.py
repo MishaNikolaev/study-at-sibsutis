@@ -68,86 +68,90 @@ def setup_spline_system(x_arr, y_arr, h, n):
     return mat
 
 
+def calculate_y_limits_new(points_x, points_y, func):
+    x_min = min(points_x)
+    x_max = max(points_x)
+    x_vals = np.linspace(x_min, x_max, 100)
+    y_func = func(x_vals)
+    all_y = np.concatenate([y_func, points_y])
+    y_min = max(0, np.min(all_y) * 0.9)
+    y_max = np.max(all_y) * 1.1
+    return y_min, y_max
+
+
+def calculate_y_limits_old(*y_sequences):
+    all_values = [val for seq in y_sequences for val in seq]
+    return min(all_values), max(all_values)
+
+
+def calculate_y_step(y_min, y_max):
+    y_range = y_max - y_min
+    if y_range < 1:
+        return 0.2
+    elif y_range < 2:
+        return 0.5
+    else:
+        return 1.0
+
+
 def draw_graph(x_arr, y_arr, h, M, n):
     plt.figure(figsize=(12, 8))
 
-    x_min = x_arr[0] - 0.5 * h[0]
-    x_max = x_arr[-1] + 0.5 * h[-1]
+    x_min = x_arr[0] - h[0]
+    x_max = x_arr[-1] + h[-1]
     if x_min < 0:
         x_min = 0
 
-    x_original = np.linspace(x_min, x_max, 500)
+    x_original = np.linspace(0.01 if x_min == 0 else x_min, x_max, 500)
     y_original = custom_function(x_original)
 
-    x_spline = np.linspace(x_min, x_max, 500)
-    y_spline = []
-    for x in x_spline:
-        if x < x_arr[0]:
-            i = 0
-        elif x > x_arr[-1]:
-            i = n - 2
-        else:
-            i = 0
-            while i < n - 1 and x > x_arr[i + 1]:
-                i += 1
+    x_spline = np.linspace(x_min, x_max, 1000)
+    y_spline = [cubic_spline(x, x_arr, y_arr, h, M, n) for x in x_spline]
 
-        dx = x - x_arr[i]
-        term1 = M[i] * np.power(x_arr[i + 1] - x, 3) / (6.0 * h[i])
-        term2 = M[i + 1] * np.power(x - x_arr[i], 3) / (6.0 * h[i])
-        term3 = (y_arr[i] - M[i] * h[i] * h[i] / 6.0) * (x_arr[i + 1] - x) / h[i]
-        term4 = (y_arr[i + 1] - M[i + 1] * h[i] * h[i] / 6.0) * (x - x_arr[i]) / h[i]
+    if x_arr[0] > 3:
+        y_min, y_max = calculate_y_limits_new(x_arr, y_arr, custom_function)
+    else:
+        y_min, y_max = calculate_y_limits_old(y_spline, y_original, y_arr)
+        y_min = max(0, y_min)
 
-        y_spline.append(term1 + term2 + term3 + term4)
+    y_step = calculate_y_step(y_min, y_max)
 
-    plt.plot(x_original, y_original, 'b-', label='Original function (sqrt(x))', linewidth=2)
-    plt.plot(x_spline, y_spline, 'r-', label='Cubic spline', linewidth=2)
-    plt.scatter(x_arr, y_arr, color='green', s=100, label='Interpolation points', zorder=5)
+    plt.plot(x_original, y_original, 'r-', label='y = √x', linewidth=2)
+    plt.plot(x_spline, y_spline, 'b-', label=f'Кубический сплайн (N={n})', linewidth=2)
+    plt.scatter(x_arr, y_arr, color='black', s=100, label='Точки интерполяции', zorder=5)
 
     plt.axhline(0, color='black', linestyle='-', linewidth=0.8)
     plt.axvline(0, color='black', linestyle='-', linewidth=0.8)
-
-    y_min = min(min(y_original), min(y_spline), 0)
-    y_max = max(max(y_original), max(y_spline)) * 1.1
+    plt.grid(True, linestyle='--', alpha=0.7)
 
     plt.xlim(x_min, x_max)
     plt.ylim(y_min, y_max)
-
-    plt.grid(True, linestyle='--', alpha=0.7)
-
-    plt.title(f'Cubic Spline Interpolation (N={n})', fontsize=16)
+    plt.title(f'Кубический сплайн (N={n}) для функции y = √x', fontsize=16)
     plt.xlabel('x', fontsize=14)
     plt.ylabel('y', fontsize=14)
     plt.legend(fontsize=12, loc='upper left')
 
-    x_step = max(1.0, (x_max - x_min) / 10)
-    y_step = max(1.0, (y_max - y_min) / 10)
-
-    plt.gca().xaxis.set_major_locator(MultipleLocator(x_step))
-    plt.gca().yaxis.set_major_locator(MultipleLocator(y_step))
-
-    info_text = f'Number of points: {n}\nStep size: {h[0]:.2f}'
-    plt.text(0.02, 0.98, info_text, transform=plt.gca().transAxes,
-             verticalalignment='top', bbox=dict(facecolor='white', alpha=0.8))
+    # Разметка осей
+    plt.xticks(np.arange(np.floor(x_min), np.ceil(x_max) + 1, 1))
+    plt.yticks(np.arange(y_min, y_max + y_step, y_step))
 
     plt.tight_layout()
     plt.show()
 
+
 def main():
     try:
-        x0 = float(input("Enter initial x0: "))
-        step = float(input("Enter step h: "))
-        n = int(input("Enter number of nodes n (>=2): "))
+        x0 = float(input("Введите начальную точку x0: "))
+        step = float(input("Введите шаг h: "))
+        n = int(input("Введите количество узлов n (>=2): "))
 
         if n < 2:
-            raise ValueError("n must be >= 2")
+            raise ValueError("n должно быть >= 2")
 
         x_arr = np.array([x0 + i * step for i in range(n)])
         y_arr = np.array([custom_function(x) for x in x_arr])
 
         h = np.array([x_arr[i + 1] - x_arr[i] for i in range(n - 1)])
-        print("\nCalculating steps h:")
-        for i in range(n - 1):
-            print(f"h[{i}] = {h[i]}")
 
         M = np.zeros(n)
         if n > 2:
@@ -155,20 +159,10 @@ def main():
             solution = gauss(mat, n - 2)
             M[1:-1] = solution
 
-        print("\nVector M:")
-        for i in range(n):
-            print(f"M[{i}] = {M[i]}")
-
-        print("\nInterpolation check at nodes:")
-        for i in range(n):
-            xi = x_arr[i]
-            si = cubic_spline(xi, x_arr, y_arr, h, M, n)
-            print(f"S({xi:.2f}) = {si:.6f} ({y_arr[i]:.6f})")
-
         draw_graph(x_arr, y_arr, h, M, n)
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Ошибка: {e}")
 
 
 if __name__ == "__main__":
